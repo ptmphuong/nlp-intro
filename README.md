@@ -1,6 +1,9 @@
 # nlp-intro
 
-Materials to my **Introduction to NLP** mini-course presented at a student club at school.
+Materials to my **Introduction to NLP** mini-course that I presented at a student club at school.
+The material introduces concepts in NLP, and walks through a hands-on project that can graph sentiment analysis result of live tweets.
+
+To follow through, simply start at the [Intro-to-NLTK.ipynb file](https://github.com/ptmphuong/nlp-intro/blob/master/Intro-to-NLTK.ipynb)
 
 ## Table of content
 
@@ -29,6 +32,3 @@ GET LIVE TWEETS FROM TWITTER API
 * Applying for Twitter API (tweepy)
 * Get live tweets to go through our sentiment
 * Graph live tweets using Matplotlib
-
-
-To follow through, simply start at the [Intro-to-NLTK.ipynb file](https://github.com/ptmphuong/nlp-intro/blob/master/Intro-to-NLTK.ipynb)
